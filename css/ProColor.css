@@ -1,0 +1,32 @@
+#h1 {
+    width: 100%;
+    font-size: 70px;
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 25px;
+}
+
+.h3 {
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+#p {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 15px;
+}
+
+body {
+    background: linear-gradient(to right, rgba(0,250,0) , rgba(250,0,0));
+}
